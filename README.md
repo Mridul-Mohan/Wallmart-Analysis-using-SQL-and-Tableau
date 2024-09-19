@@ -22,26 +22,26 @@ This project aims to analyze Walmart sales data to uncover insights into top-per
 * rating: Customer satisfaction rating for the purchase
 # Analysis Focus
 * Product Analysis:
-** Assess product line performance to identify top sellers and areas for improvement.
-** Analyze sales patterns across different product categories to inform sales strategy adjustments.
+  *Assess product line performance to identify top sellers and areas for improvement.
+  *Analyze sales patterns across different product categories to inform sales strategy adjustments.
 
 *Sales Analysis:
-** Evaluate sales trends over time, including daily, weekly, and monthly breakdowns.
-** Assess the effectiveness of sales strategies and identify peak sales periods.
+  *Evaluate sales trends over time, including daily, weekly, and monthly breakdowns.
+  *Assess the effectiveness of sales strategies and identify peak sales periods.
 
 *Customer Analysis:
-** Segment customers by type, gender, and purchase behavior.
-** Identify high-value customers and explore gender-based preferences across product lines.
+  *Segment customers by type, gender, and purchase behavior.
+  *Identify high-value customers and explore gender-based preferences across product lines.
 
 * Revenue & Profit Calculations:
-** Compute COGS, VAT, gross profit, and gross margin to analyze branch and product profitability.
-** Example Calculation:
-*** Unit Price: 45.79
-*** Quantity: 7
-*** COGS = 45.79 * 7 = 320.53
-*** VAT = 5% * COGS = 16.0265
-*** Total Sales = VAT + COGS = 336.5565
-*** Gross Margin = Gross Income / Total Revenue = 4.76%
+  *Compute COGS, VAT, gross profit, and gross margin to analyze branch and product profitability.
+  *Example Calculation:
+  *Unit Price: 45.79
+  *** Quantity: 7
+  *COGS = 45.79 * 7 = 320.53
+  *VAT = 5% * COGS = 16.0265
+  *Total Sales = VAT + COGS = 336.5565
+  *Gross Margin = Gross Income / Total Revenue = 4.76%
   
 #Key Insights
 * Branch Performance: Naypyitaw recorded the highest revenue among the branches.
